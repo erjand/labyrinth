@@ -7,5 +7,4 @@ The player moves around a grid to try and collect more treasures than the AI opp
 You should be able to get this project up and running locally with a free copy of [Visual Studio 2019 Community](https://visualstudio.microsoft.com/vs/community/) and then installing the [MonoGame.Framework.WindowsDX](https://www.nuget.org/packages/MonoGame.Framework.WindowsDX/) package.
 
 # Download
-
-
+[1.0.0](https://github.com/eander01/labyrinth/releases/download/1.0.0/Labyrinth.zip)
