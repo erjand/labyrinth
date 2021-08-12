@@ -7,7 +7,7 @@ using Microsoft.Xna.Framework.Graphics;
 
 namespace Labyrinth.GameObjects
 {
-	public class TileObject // Not a huge fan of this class name
+	public class TileObject
 	{
 		public TileObjectType TileObjectType { get; }
 		private Texture2D Texture { get; set; }
